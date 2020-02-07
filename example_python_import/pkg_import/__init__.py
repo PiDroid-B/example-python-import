@@ -1,0 +1,2 @@
+import example_python_import.pkg_import.f_pkg_import
+
